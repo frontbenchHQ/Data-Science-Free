@@ -94,3 +94,10 @@ Free Resources For Data Science [![LICENSE](https://img.shields.io/badge/license
 
 * **Cheat Sheets for ML, DeepL, AI** [Google Drive](https://drive.google.com/open?id=1qYgzm4oTVYIR_iEsT4ZW9l9o3GUMSzYG)
 
+# Support
+
+***Created by Shubham Kumar @imskr***
+
+**[GitHub](https://github.com/imskr)**
+
+**[Linkedin](https://www.linkedin.com/in/imskr)**
