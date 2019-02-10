@@ -74,9 +74,23 @@ Free Resources For Data Science [![LICENSE](https://img.shields.io/badge/license
 
 * **Udacity** [Course free](https://eu.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 
-* **Another good resource [here](http://interactivepython.org/runestone/static/pythonds/index.html)
+* **Another good resource** [here](http://interactivepython.org/runestone/static/pythonds/index.html)
 
 ## Harvard CS109
 
 * **[CS109](https://cs109.github.io/2015/index.html)**
+
+## MACHINE LEARNING
+
+* **Stanford - AndrewNg Course** [YouTube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
+
+* **Udemy - Machine Learning A-Z using Python & R by SuperDataScience Team** [here](https://drive.google.com/open?id=1mTUyna5oynW4RVItOldP2f2yhe_3xL4s)
+
+* **Ebooks for ML on** [Google Drive](https://drive.google.com/drive/folders/0ByWO0aO1eI_Md1JGZW9NSDFpQ1U?usp=sharing)
+
+* **More Ebooks on** [Google Drive](https://drive.google.com/open?id=1gmW2K_VAQrXPWAfgQcg-3umt5ipV7-G9)
+
+* **Manning publication books on** [Google Drive](https://drive.google.com/open?id=1yXZ1HgyQ7yPUJI8cC7ZnTWi0BAbxq_Kg)
+
+* **Cheat Sheets for ML, DeepL, AI** [Google Drive](https://drive.google.com/open?id=1qYgzm4oTVYIR_iEsT4ZW9l9o3GUMSzYG)
 
