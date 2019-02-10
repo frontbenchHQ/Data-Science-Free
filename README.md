@@ -94,6 +94,8 @@ Free Resources For Data Science [![LICENSE](https://img.shields.io/badge/license
 
 * **Cheat Sheets for ML, DeepL, AI** [Google Drive](https://drive.google.com/open?id=1qYgzm4oTVYIR_iEsT4ZW9l9o3GUMSzYG)
 
+* **Google** Machine Learning crash course using Tensorflow [here](https://developers.google.com/machine-learning/crash-course/)
+
 ## Blogs to Follow
 
 * **[KDNuggets](https://www.kdnuggets.com/)**
