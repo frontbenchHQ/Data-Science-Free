@@ -94,6 +94,16 @@ Free Resources For Data Science [![LICENSE](https://img.shields.io/badge/license
 
 * **Cheat Sheets for ML, DeepL, AI** [Google Drive](https://drive.google.com/open?id=1qYgzm4oTVYIR_iEsT4ZW9l9o3GUMSzYG)
 
+## Blogs to Follow
+
+* **[KDNuggets](https://www.kdnuggets.com/)**
+
+* **[Data Science Plus](https://datascienceplus.com/)**
+
+* **[Analytics Vidhya](https://www.analyticsvidhya.com/)**
+
+* **[Towards Data Science](https://towardsdatascience.com/)**
+
 # Support
 
 ***Created by Shubham Kumar @imskr***
