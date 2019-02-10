@@ -22,4 +22,61 @@ Free Resources For Data Science [![LICENSE](https://img.shields.io/badge/license
 
 * **(My Favourite)Udemy Complete Python Bootcamp by Jose Portilla** [Google Drive](https://drive.google.com/drive/folders/0ByWO0aO1eI_MaExzRWZ2S0dndjQ?usp=sharing)
 
-* **Udacity - Developing scalable app in Python. [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MT1E1NW91VlJ2TVk)
+* **Udacity - Developing scalable app in Python.** [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MT1E1NW91VlJ2TVk)
+
+* **Python Ebooks on [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MZ19fbVV3YS1hckk)**
+
+## Practice Python Projects
+
+* [Project based](https://github.com/tuvtran/project-based-learning#python)
+
+* [Project Euler](https://projecteuler.net/)
+
+## CALCULUS
+
+* **Essence of Calculus** [3Blue1Brown](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
+
+* **Khan Academy calculus-1 [here](https://www.khanacademy.org/math/calculus-1)**
+
+* **Khan Academy calculus-2 [here](https://www.khanacademy.org/math/calculus-2)**
+
+* **Khan Academy multivariable calculus [here](https://www.khanacademy.org/math/multivariable-calculus)**
+
+## LINEAR ALGEBRA
+
+![mangaLA](images/la.png)
+
+* **Manga Guide to Linear Algebre** [Google Drive](https://drive.google.com/file/d/1sdnIBqPjSgPzitrInV0roHTEJ856ntYe/view?usp=sharing)  
+
+* **[3Blue1Brown](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)**
+
+* **Khan Academy [linear algebra](https://www.khanacademy.org/math/linear-algebra)**
+
+* **UBC Maths by James B. Carrell** [here](https://www.math.ubc.ca/~carrell/NB.pdf)
+
+## PROBABILITY AND STATISTICS
+
+* **Khan Academy** [course](https://www.khanacademy.org/math/statistics-probability)
+
+* **Think Stats** [pdf](http://greenteapress.com/thinkstats/thinkstats.pdf)
+
+* **Probability** [Cheat sheet](http://www.wzchen.com/probability-cheatsheet/)
+
+* **Bayesian-Methods-for-Hackers** [here](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+
+## STATISTICAL LEARNING 
+
+* **An Introduction to Statistical Learning** [Essential](https://www-bcf.usc.edu/~gareth/ISL/index.html)
+
+* **Elements of Statistical Learning Stanford** [Extremely useful](https://web.stanford.edu/~hastie/ElemStatLearn/)
+
+## DATA STRUCTURES AND ALGORITHMS IN PYTHON
+
+* **Udacity** [Course free](https://eu.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+
+* **Another good resource [here](http://interactivepython.org/runestone/static/pythonds/index.html)
+
+## Harvard CS109
+
+* **[CS109](https://cs109.github.io/2015/index.html)**
+
