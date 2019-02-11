@@ -104,6 +104,8 @@ Free Resources For Data Science [![LICENSE](https://img.shields.io/badge/license
 
 * **Top 100 Data science interview [questions](http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com)**
 
+* **109 Data Science Interview Questions and Answers for 2019** [Springboard](https://www.springboard.com/blog/data-science-interview-questions/)
+
 ## Blogs to Follow
 
 * **[KDNuggets](https://www.kdnuggets.com/)**
