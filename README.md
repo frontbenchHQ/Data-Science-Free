@@ -96,6 +96,14 @@ Free Resources For Data Science [![LICENSE](https://img.shields.io/badge/license
 
 * **Google** Machine Learning crash course using Tensorflow [here](https://developers.google.com/machine-learning/crash-course/)
 
+## INTERVIEW QUESTIONS
+
+* **100 Data Science Interview Questions and [Answers](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)**
+
+* **40 Interview Questions asked at [Startups](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/) in Machine Learning**
+
+* **Top 100 Data science interview [questions](http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com)**
+
 ## Blogs to Follow
 
 * **[KDNuggets](https://www.kdnuggets.com/)**
