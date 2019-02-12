@@ -82,6 +82,10 @@ Free Resources For Data Science [![LICENSE](https://img.shields.io/badge/license
 
 ## MACHINE LEARNING
 
+![ml](images/ml.jpg)
+
+* **Hands on Machine Learning with Tensorflow & Scikit-learn** [Google Drive](https://drive.google.com/file/d/1CHv8CTQRRaoSDeBGN0_tkvd0D2E9mYxo/view?usp=sharing)
+
 * **Stanford - AndrewNg Course** [YouTube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
 * **Udemy - Machine Learning A-Z using Python & R by SuperDataScience Team** [here](https://drive.google.com/open?id=1mTUyna5oynW4RVItOldP2f2yhe_3xL4s)
