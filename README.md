@@ -1,4 +1,4 @@
-# Data-Science-Free  ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# Data-Science-Free  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/imskr)
 Free Resources For Data Science [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/frontbench-open-source/Data-Science-Free/blob/master/LICENSE)
 
 ## Show your support by giving it a :star:
@@ -93,6 +93,30 @@ Free Resources For Data Science [![LICENSE](https://img.shields.io/badge/license
 * **Manning publication books on** [Google Drive](https://drive.google.com/open?id=1yXZ1HgyQ7yPUJI8cC7ZnTWi0BAbxq_Kg)
 
 * **Cheat Sheets for ML, DeepL, AI** [Google Drive](https://drive.google.com/open?id=1qYgzm4oTVYIR_iEsT4ZW9l9o3GUMSzYG)
+
+* **Google** Machine Learning crash course using Tensorflow [here](https://developers.google.com/machine-learning/crash-course/)
+
+## INTERVIEW QUESTIONS
+
+* **100 Data Science Interview Questions and [Answers](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)**
+
+* **40 Interview Questions asked at [Startups](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/) in Machine Learning**
+
+* **Top 100 Data science interview [questions](http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com)**
+
+* **109 Data Science Interview Questions and Answers for 2019** [Springboard](https://www.springboard.com/blog/data-science-interview-questions/)
+
+## [PAPERS WITH CODE ](https://paperswithcode.com/)
+
+## Blogs to Follow
+
+* **[KDNuggets](https://www.kdnuggets.com/)**
+
+* **[Data Science Plus](https://datascienceplus.com/)**
+
+* **[Analytics Vidhya](https://www.analyticsvidhya.com/)**
+
+* **[Towards Data Science](https://towardsdatascience.com/)**
 
 # Support
 
