@@ -126,6 +126,4 @@ Free Resources For Data Science [![LICENSE](https://img.shields.io/badge/license
 
 ***Created by Shubham Kumar***
 
-**[GitHub](https://github.com/imskr)**
-
-**[Linkedin](https://www.linkedin.com/in/imskr)**
+**[GitHub](https://github.com/imskr)**    **[Linkedin](https://www.linkedin.com/in/imskr)**
