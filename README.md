@@ -10,7 +10,7 @@ Free Resources For Data Science [![LICENSE](https://img.shields.io/badge/license
 ## PYTHON
 ![pythondatascience](images/py.png)
 
-* **Introduction to Python, The Scientific Libraries, Advanced Python Programming and the Pandas Section of Data**.[click here](https://lectures.quantecon.org/py/) 
+* **Introduction to Python, The Scientific Libraries, Advanced Python Programming and the Pandas Section**.[click here](https://lectures.quantecon.org/py/) 
 
 * **Chapters 1 - 4** of this [book](https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)                  
 
