@@ -124,7 +124,7 @@ Free Resources For Data Science [![LICENSE](https://img.shields.io/badge/license
 
 # Support
 
-***Created by Shubham Kumar @imskr***
+***Created by Shubham Kumar***
 
 **[GitHub](https://github.com/imskr)**
 
