@@ -25,8 +25,8 @@
 <p align="center">
   <sub>Created by <a href="https://github.com/imskr"><strong>Shubham Kumar</strong></a>
 </p>
+<hr noshade>
 
-<br>
 
 ## Show your support by giving :octocat: a :star:
 
