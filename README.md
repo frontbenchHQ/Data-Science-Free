@@ -145,8 +145,3 @@
 
 * **[Towards Data Science](https://towardsdatascience.com/)**
 
-# Support
-
-***Created by Shubham Kumar***
-
-**[GitHub](https://github.com/imskr)**    **[Linkedin](https://www.linkedin.com/in/imskr)**
