@@ -1,11 +1,34 @@
-# Data-Science-Free  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/imskr)
-Free Resources For Data Science [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://github.com/frontbench-open-source/Data-Science-Free/blob/master/LICENSE)
+<p align="center">
+    <img src="/images/data.jpg" alt="Master" height="370">
+</p>
 
-## Show your support :octocat: by giving it a :star: [![](https://img.shields.io/github/stars/frontbench-open-source/Data-Science-Free.svg?style=social)](https://github.com/frontbench-open-source/Data-Science-Free/stargazers)
+<h4 align="center">A collection of awesome manuals, blogs, cheats, resources and more.</h4>
 
-![data](images/data.jpg)
+<br>
 
+<p align="center">
+  <a href="https://github.com/frontbench-open-source/Data-Science-Free/tree/master">
+    <img src="https://img.shields.io/badge/Branch-master-green.svg?longCache=true"
+        alt="Branch">
+  </a>
+  <a href="https://github.com/frontbench-open-source/Data-Science-Free/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-orange.svg?longCache=true" alt="License">
+  </a>
+  <a href="https://github.com/imskr">
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome">
+  </a>
+  <a href="https://github.com/frontbench-open-source/Data-Science-Free/stargazers">
+    <img src="https://img.shields.io/github/stars/frontbench-open-source/Data-Science-Free.svg?style=social" alt="Stargazers">
+  </a>
+</p>
 
+<p align="center">
+  <sub>Created by <a href="https://github.com/imskr"><strong>Shubham Kumar</strong></a>
+</p>
+
+<br>
+
+## Show your support by giving :octocat: a :star:
 
 ## PYTHON
 ![pythondatascience](images/py.png)
