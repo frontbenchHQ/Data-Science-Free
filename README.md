@@ -35,23 +35,24 @@
 ## PYTHON
 ![pythondatascience](images/py.png)
 
-* **Introduction to Python, The Scientific Libraries, Advanced Python Programming and the Pandas Section**.[click here](https://lectures.quantecon.org/py/) 
+* **Introduction to Python 3** [Sentdex](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
 
-* **Chapters 1 - 4** of this [book](https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)                  
+* **Quantative Economics with Python** [Here](https://lectures.quantecon.org/py/) 
 
-* **Then this Pandas** [tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+* **Python Data science handbook** [Chapter 1-4](https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)                  
+* **Pandas** [Tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 
 * **Python for Data Analysis** [2nd Edition](https://github.com/wesm/pydata-book) 
 
-* **More Python by** [Scipy](https://scipython.com/book/) 
+* **Python by** [Scipy](https://scipython.com/book/) 
 
-* **(My Favourite)Udemy Complete Python Bootcamp by Jose Portilla** [Google Drive](https://drive.google.com/drive/folders/0ByWO0aO1eI_MaExzRWZ2S0dndjQ?usp=sharing)
+* **Udemy Complete Python Bootcamp by Jose Portilla** [Google Drive](https://drive.google.com/drive/folders/0ByWO0aO1eI_MaExzRWZ2S0dndjQ?usp=sharing)
 
-* **Udacity - Developing scalable app in Python.** [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MT1E1NW91VlJ2TVk)
+* **Udacity - Developing scalable app in Python** [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MT1E1NW91VlJ2TVk)
 
-* **Python Ebooks on [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MZ19fbVV3YS1hckk)**
+* **Python Ebooks on** [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MZ19fbVV3YS1hckk)
 
-## Practice Python Projects
+## PRACTICE PYTHON
 
 * [Project based](https://github.com/tuvtran/project-based-learning#python)
 
@@ -61,11 +62,11 @@
 
 * **Essence of Calculus** [3Blue1Brown PlayList](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
-* **Khan Academy calculus-1** [here](https://www.khanacademy.org/math/calculus-1)
+* **Khan Academy calculus-1** [Here](https://www.khanacademy.org/math/calculus-1)
 
-* **Khan Academy calculus-2** [here](https://www.khanacademy.org/math/calculus-2)
+* **Khan Academy calculus-2** [Here](https://www.khanacademy.org/math/calculus-2)
 
-* **Khan Academy multivariable calculus** [here](https://www.khanacademy.org/math/multivariable-calculus)
+* **Khan Academy multivariable calculus** [Here](https://www.khanacademy.org/math/multivariable-calculus)
 
 ## LINEAR ALGEBRA
 
@@ -75,19 +76,19 @@
 
 * **3Blue1Brown** [PlayList](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-* **Khan Academy** [linear algebra](https://www.khanacademy.org/math/linear-algebra)
+* **Khan Academy** [Linear algebra](https://www.khanacademy.org/math/linear-algebra)
 
-* **UBC Maths by James B. Carrell** [here](https://www.math.ubc.ca/~carrell/NB.pdf)
+* **UBC Maths by James B. Carrell** [Here](https://www.math.ubc.ca/~carrell/NB.pdf)
 
 ## PROBABILITY AND STATISTICS
 
-* **Khan Academy** [course](https://www.khanacademy.org/math/statistics-probability)
+* **Khan Academy** [Course](https://www.khanacademy.org/math/statistics-probability)
 
-* **Think Stats** [pdf](http://greenteapress.com/thinkstats/thinkstats.pdf)
+* **Think Stats** [Pdf](http://greenteapress.com/thinkstats/thinkstats.pdf)
 
 * **Probability** [Cheat sheet](http://www.wzchen.com/probability-cheatsheet/)
 
-* **Bayesian-Methods-for-Hackers** [here](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+* **Bayesian-Methods-for-Hackers** [Here](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 ## STATISTICAL LEARNING 
 
@@ -99,7 +100,7 @@
 
 * **Udacity** [Course free](https://eu.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
 
-* **Another good resource** [here](http://interactivepython.org/runestone/static/pythonds/index.html)
+* **Another good resource** [Here](http://interactivepython.org/runestone/static/pythonds/index.html)
 
 ## MACHINE LEARNING
 
@@ -107,9 +108,11 @@
 
 * **Hands on Machine Learning with Tensorflow & Scikit-learn** [Google Drive](https://drive.google.com/file/d/1CHv8CTQRRaoSDeBGN0_tkvd0D2E9mYxo/view?usp=sharing)
 
+* **Practical Machine Learning Tutorial with Python** [Sentdex](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+
 * **Stanford - AndrewNg Course** [YouTube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
-* **Udemy - Machine Learning A-Z using Python & R by SuperDataScience Team** [here](https://drive.google.com/open?id=1mTUyna5oynW4RVItOldP2f2yhe_3xL4s)
+* **Udemy - Machine Learning A-Z using Python & R by SuperDataScience Team** [Here](https://drive.google.com/open?id=1mTUyna5oynW4RVItOldP2f2yhe_3xL4s)
 
 * **Ebooks for ML on** [Google Drive](https://drive.google.com/drive/folders/0ByWO0aO1eI_Md1JGZW9NSDFpQ1U?usp=sharing)
 
@@ -119,17 +122,19 @@
 
 * **Cheat Sheets for ML, DeepL, AI** [Google Drive](https://drive.google.com/open?id=1qYgzm4oTVYIR_iEsT4ZW9l9o3GUMSzYG)
 
-* **Google Machine Learning crash course using Tensorflow** [here](https://developers.google.com/machine-learning/crash-course/)
+* **Google Machine Learning crash course using Tensorflow (Not for Beginners)** [Here](https://developers.google.com/machine-learning/crash-course/)
 
 ## INTERVIEW QUESTIONS
 
-* **100 Data Science Interview Questions and [Answers](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)**
+* **100 Data Science Interview Questions and** [Answers](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)
 
-* **40 Interview Questions asked at startups in Machine Learning** [here](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/) 
+* **40 Interview Questions asked at startups in Machine Learning** [Here](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/) 
 
-* **Top 100 Data science interview** [questions](http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com)
+* **Top 100 Data science interview** [Questions](http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com)
 
-* **109 Data Science Interview Questions and Answers for 2019** [Springboard](https://www.springboard.com/blog/data-science-interview-questions/)
+* **109 Data Science Interview Questions and Answers for 2019 on** [Springboard](https://www.springboard.com/blog/data-science-interview-questions/)
+
+<hr noshade>
 
 ## RESEARCH PAPERS 
 
@@ -140,6 +145,10 @@
 * **[Harvard CS109](https://cs109.github.io/2015/index.html)**
 
 ## Blogs to Follow
+
+![funml](images/funml.jpg)
+
+* **Machine Learning for Everyone** [Blog](https://vas3k.com/blog/machine_learning/)
 
 * **[KDNuggets](https://www.kdnuggets.com/)**
 
