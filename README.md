@@ -37,7 +37,7 @@
 
 * **Introduction to Python 3** [sentdex](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
 
-* **Quantative Economics with Python**.[here](https://lectures.quantecon.org/py/) 
+* **Quantative Economics with Python** [here](https://lectures.quantecon.org/py/) 
 
 * **Python Data science handbook** [Chapter 1-4](https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)                  
 * **Pandas** [Tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
@@ -48,7 +48,7 @@
 
 * **Udemy Complete Python Bootcamp by Jose Portilla** [Google Drive](https://drive.google.com/drive/folders/0ByWO0aO1eI_MaExzRWZ2S0dndjQ?usp=sharing)
 
-* **Udacity - Developing scalable app in Python.** [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MT1E1NW91VlJ2TVk)
+* **Udacity - Developing scalable app in Python** [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MT1E1NW91VlJ2TVk)
 
 * **Python Ebooks on** [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MZ19fbVV3YS1hckk)
 
@@ -128,7 +128,7 @@
 
 * **100 Data Science Interview Questions and** [Answers](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)
 
-* **40 Interview Questions asked at startups in Machine Learning** [here](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/) 
+* **40 Interview Questions asked at startups in Machine Learning** [Here](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/) 
 
 * **Top 100 Data science interview** [Questions](http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com)
 
