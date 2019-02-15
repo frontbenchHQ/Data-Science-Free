@@ -37,19 +37,18 @@
 
 * **Introduction to Python, The Scientific Libraries, Advanced Python Programming and the Pandas Section**.[click here](https://lectures.quantecon.org/py/) 
 
-* **Chapters 1 - 4** of this [book](https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)                  
-
-* **Then this Pandas** [tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+* **Python Datascience handbook** [Chapter 1-4](https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)                  
+* **Pandas** [Tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 
 * **Python for Data Analysis** [2nd Edition](https://github.com/wesm/pydata-book) 
 
 * **More Python by** [Scipy](https://scipython.com/book/) 
 
-* **(My Favourite)Udemy Complete Python Bootcamp by Jose Portilla** [Google Drive](https://drive.google.com/drive/folders/0ByWO0aO1eI_MaExzRWZ2S0dndjQ?usp=sharing)
+* **Udemy Complete Python Bootcamp by Jose Portilla** [Google Drive](https://drive.google.com/drive/folders/0ByWO0aO1eI_MaExzRWZ2S0dndjQ?usp=sharing)
 
 * **Udacity - Developing scalable app in Python.** [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MT1E1NW91VlJ2TVk)
 
-* **Python Ebooks on [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MZ19fbVV3YS1hckk)**
+* **Python Ebooks on** [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MZ19fbVV3YS1hckk)
 
 ## Practice Python Projects
 
@@ -140,6 +139,10 @@
 * **[Harvard CS109](https://cs109.github.io/2015/index.html)**
 
 ## Blogs to Follow
+
+![funml](images/funml.jpg)
+
+* **Machine Learning for Everyone** [blog](https://vas3k.com/blog/machine_learning/)
 
 * **[KDNuggets](https://www.kdnuggets.com/)**
 
