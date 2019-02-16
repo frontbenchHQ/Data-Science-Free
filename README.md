@@ -134,6 +134,8 @@
 
 * **Reinforcement Learning Book by Andrew Barto and Richard S. Sutton** [Google Drive](https://drive.google.com/file/d/1OFquNBwdPxFFFbxCixBDHYUEmnbimegH/view?usp=sharing)
 
+* **Stanford's CS 229 Machine Learning** [VIP Cheatsheet](https://github.com/afshinea/stanford-cs-229-machine-learning)
+
 ## PRACTICE ML
 
 * **Home for Data Science -** [Kaggle](https://www.kaggle.com/)
