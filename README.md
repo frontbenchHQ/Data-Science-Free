@@ -39,8 +39,7 @@
 
 * **Quantative Economics with Python** [Here](https://lectures.quantecon.org/py/) 
 
-* **Python Data science handbook** [Chapter 1-4](https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)                  
-* **Pandas** [Tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+* **Python Data science handbook** [Chapter 1-4](https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)               
 
 * **Python for Data Analysis** [2nd Edition](https://github.com/wesm/pydata-book) 
 
@@ -51,6 +50,12 @@
 * **Udacity - Developing scalable app in Python** [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MT1E1NW91VlJ2TVk)
 
 * **Python Ebooks on** [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MZ19fbVV3YS1hckk)
+
+## PANDAS
+
+* **Pandas & Data Analysis by [mlcourse.ai](https://www.youtube.com/watch?v=fwWCw_cE5aI&feature=youtu.be)** (Video)
+
+* **Pandas by** [Pydata](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 
 ## DATA STRUCTURES AND ALGORITHMS IN PYTHON
 
