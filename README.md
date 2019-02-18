@@ -57,6 +57,10 @@
 
 * **Pandas by** [Pydata](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
 
+* **Effective Pandas** [GitHub](https://github.com/TomAugspurger/effective-pandas)
+
+* **Pandas** [Cheatsheets](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
+
 ## DATA STRUCTURES AND ALGORITHMS IN PYTHON
 
 ![algo](images/algo.png)
