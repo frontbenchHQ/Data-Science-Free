@@ -141,8 +141,6 @@
 
 * **Stanford's CS 229 Machine Learning** [VIP Cheatsheet](https://github.com/afshinea/stanford-cs-229-machine-learning)
 
-* **Open Machine Learning Course [mlcourse.ai](https://mlcourse.ai/)**
-
 ## PRACTICE ML
 
 * **Home for Data Science -** [Kaggle](https://www.kaggle.com/)
@@ -179,9 +177,11 @@
 
 * **[PAPERS WITH CODE](https://paperswithcode.com/)**
 
-## TOP UNIVERSITY COURSES
+## TOP RATED COURSES
 
-* **[Harvard CS109](https://cs109.github.io/2015/index.html)**
+![mlcourse.ai](images/mlcourseai.jpg)
+
+* **Open Machine Learning Course [mlcourse.ai](https://mlcourse.ai/)**
 
 ## Blogs to Follow
 
