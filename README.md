@@ -136,6 +136,8 @@
 
 * **Stanford's CS 229 Machine Learning** [VIP Cheatsheet](https://github.com/afshinea/stanford-cs-229-machine-learning)
 
+* **Open Machine Learning Course [mlcourse.ai](https://mlcourse.ai/)**
+
 ## PRACTICE ML
 
 * **Home for Data Science -** [Kaggle](https://www.kaggle.com/)
@@ -165,6 +167,8 @@
 * **Top 100 Data science interview** [Questions](http://nitin-panwar.github.io/Top-100-Data-science-interview-questions/?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com)
 
 * **109 Data Science Interview Questions and Answers for 2019 on** [Springboard](https://www.springboard.com/blog/data-science-interview-questions/)
+
+* **111 Data Science Interview Questions with Detailed Answers** [Here](https://rpubs.com/JDAHAN/172473)
 
 ## RESEARCH PAPERS 
 
