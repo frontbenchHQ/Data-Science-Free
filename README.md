@@ -33,7 +33,9 @@
 ## Show your support by giving :octocat: a :star:
 
 ## PYTHON
-![pythondatascience](images/py.png)
+<p align="center">
+    <img src="/images/py.png" alt="py">
+</p>
 
 * **Introduction to Python 3** [Sentdex](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
 
@@ -90,8 +92,9 @@
 * **Khan Academy multivariable calculus** [Here](https://www.khanacademy.org/math/multivariable-calculus)
 
 ## LINEAR ALGEBRA
-
-![mangaLA](images/la.png)
+<p align="center">
+    <img src="/images/la.png" alt="la">
+</p>
 
 * **Manga Guide to Linear Algebre** [Google Drive](https://drive.google.com/file/d/1sdnIBqPjSgPzitrInV0roHTEJ856ntYe/view?usp=sharing)  
 
@@ -118,8 +121,9 @@
 * **Elements of Statistical Learning Stanford** [Extremely useful](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
 ## MACHINE LEARNING
-
-![ml](images/ml.jpg)
+<p align="center">
+    <img src="/images/ml.jpg" alt="ml">
+</p>
 
 * **Hands on Machine Learning with Tensorflow & Scikit-learn** [Google Drive](https://drive.google.com/file/d/1CHv8CTQRRaoSDeBGN0_tkvd0D2E9mYxo/view?usp=sharing)
 
@@ -150,8 +154,9 @@
 * **Home for Data Science -** [Kaggle](https://www.kaggle.com/)
 
 ## DEEP LEARNING
-
-![dl](images/dl.jpg)
+<p align="center">
+    <img src="/images/dl.jpg" alt="dl">
+</p>
 
 * **Grokking Deep Learning by Andrew Trask** [Pdf](https://drive.google.com/file/d/1gLbOH2AbiaStYGmLV6oivTgU6eraqlW2/view?usp=sharing)
 
