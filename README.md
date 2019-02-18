@@ -39,8 +39,7 @@
 
 * **Quantative Economics with Python** [Here](https://lectures.quantecon.org/py/) 
 
-* **Python Data science handbook** [Chapter 1-4](https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)                  
-* **Pandas** [Tutorial](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+* **Python Data science handbook** [Chapter 1-4](https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb)               
 
 * **Python for Data Analysis** [2nd Edition](https://github.com/wesm/pydata-book) 
 
@@ -51,6 +50,24 @@
 * **Udacity - Developing scalable app in Python** [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MT1E1NW91VlJ2TVk)
 
 * **Python Ebooks on** [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MZ19fbVV3YS1hckk)
+
+## PANDAS
+
+* **Pandas & Data Analysis by [mlcourse.ai](https://www.youtube.com/watch?v=fwWCw_cE5aI&feature=youtu.be)** (Video)
+
+* **Pandas by** [Pydata](https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html)
+
+## DATA STRUCTURES AND ALGORITHMS IN PYTHON
+
+![algo](images/algo.png)
+
+* **Python & Algorithms 2.0 by Marina Wahl** [Pdf](https://drive.google.com/file/d/1rR0GSEAqVtFDWRDdK1NLEJvc8oKC94PT/view?usp=sharing)
+
+* **Udacity** [Course](https://eu.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+
+* **Another good resource** [Here](http://interactivepython.org/runestone/static/pythonds/index.html)
+
+* **Visualising algorithms through animation** [Visit](https://visualgo.net/en)
 
 ## PRACTICE PYTHON
 
@@ -96,12 +113,6 @@
 
 * **Elements of Statistical Learning Stanford** [Extremely useful](https://web.stanford.edu/~hastie/ElemStatLearn/)
 
-## DATA STRUCTURES AND ALGORITHMS IN PYTHON
-
-* **Udacity** [Course free](https://eu.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
-
-* **Another good resource** [Here](http://interactivepython.org/runestone/static/pythonds/index.html)
-
 ## MACHINE LEARNING
 
 ![ml](images/ml.jpg)
@@ -114,6 +125,8 @@
 
 * **Udemy - Machine Learning A-Z using Python & R by SuperDataScience Team** [Here](https://drive.google.com/open?id=1mTUyna5oynW4RVItOldP2f2yhe_3xL4s)
 
+* **Jason Mayes (Google Engineer ML Class 101)** [Slides](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent?slide=id.g168a3288f7_0_58)
+
 * **Ebooks for ML on** [Google Drive](https://drive.google.com/drive/folders/0ByWO0aO1eI_Md1JGZW9NSDFpQ1U?usp=sharing)
 
 * **More Ebooks on** [Google Drive](https://drive.google.com/open?id=1gmW2K_VAQrXPWAfgQcg-3umt5ipV7-G9)
@@ -123,6 +136,32 @@
 * **Cheat Sheets for ML, DeepL, AI** [Google Drive](https://drive.google.com/open?id=1qYgzm4oTVYIR_iEsT4ZW9l9o3GUMSzYG)
 
 * **Google Machine Learning crash course using Tensorflow (Not for Beginners)** [Here](https://developers.google.com/machine-learning/crash-course/)
+
+* **Reinforcement Learning Book by Andrew Barto and Richard S. Sutton** [Google Drive](https://drive.google.com/file/d/1OFquNBwdPxFFFbxCixBDHYUEmnbimegH/view?usp=sharing)
+
+* **Stanford's CS 229 Machine Learning** [VIP Cheatsheet](https://github.com/afshinea/stanford-cs-229-machine-learning)
+
+* **Open Machine Learning Course [mlcourse.ai](https://mlcourse.ai/)**
+
+## PRACTICE ML
+
+* **Home for Data Science -** [Kaggle](https://www.kaggle.com/)
+
+## DEEP LEARNING
+
+![dl](images/dl.jpg)
+
+* **Grokking Deep Learning by Andrew Trask** [Pdf](https://drive.google.com/file/d/1gLbOH2AbiaStYGmLV6oivTgU6eraqlW2/view?usp=sharing)
+
+* **Practical Deep Learning for Coders** [Fast-ai](https://course.fast.ai/)
+
+* **MIT Deep Learning** [Lex-Fridman](https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+
+## DEEP LEARNING PROJECTS
+
+* **Python Deep Learning Projects Packt** [Packt Pdf](https://drive.google.com/file/d/1f7wsE-Aui2nYhG12Ti6-L8UMtSUsNvFu/view?usp=sharing) 
+
+<hr noshade>
 
 ## INTERVIEW QUESTIONS
 
@@ -134,7 +173,7 @@
 
 * **109 Data Science Interview Questions and Answers for 2019 on** [Springboard](https://www.springboard.com/blog/data-science-interview-questions/)
 
-<hr noshade>
+* **111 Data Science Interview Questions with Detailed Answers** [Here](https://rpubs.com/JDAHAN/172473)
 
 ## RESEARCH PAPERS 
 
