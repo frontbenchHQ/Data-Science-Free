@@ -29,8 +29,27 @@
 </p>
 <hr noshade>
 
+# Show your support by giving :octocat: a :star:
 
-## Show your support by giving :octocat: a :star:
+## Table of Contents
+
+* [Python](#python)
+   * [Pandas](#pandas)
+   * [Algorithms in Python](#algorithms-in-python)
+   * [Practice Python](#practice-python)
+* [Calculus](#calculus)
+* [Linear Algebra](#linear-algebra)
+* [Algorithms in Python](#algorithms-in-python)
+* [Probability & Stats](#probability-and-statistics)
+* [Statistical Learning](#statistical-learning)
+* [Machine Learning](#machine-learning)
+  * [Practice ML](#practice-ml)
+* [Deep Learning](#deep-learning)
+  * [Deep Learning Projects](#deep-learning-projects)
+* [Research Papers](#research-papers)
+* [Interview Questions](#interview-questions)
+* [Top Rated Courses](#top-rated-courses)
+* [Blogs to Follow](#blogs-to-follow)
 
 ## PYTHON
 <p align="center">
@@ -63,7 +82,7 @@
 
 * **Pandas** [Cheatsheets](https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf)
 
-## DATA STRUCTURES AND ALGORITHMS IN PYTHON
+## ALGORITHMS IN PYTHON
 
 ![algo](images/algo.png)
 
@@ -170,6 +189,10 @@
 
 <hr noshade>
 
+## RESEARCH PAPERS 
+
+* **[PAPERS WITH CODE](https://paperswithcode.com/)**
+
 ## INTERVIEW QUESTIONS
 
 * **100 Data Science Interview Questions and** [Answers](https://www.dezyre.com/article/100-data-science-interview-questions-and-answers-general-for-2018/184)
@@ -181,10 +204,6 @@
 * **109 Data Science Interview Questions and Answers for 2019 on** [Springboard](https://www.springboard.com/blog/data-science-interview-questions/)
 
 * **111 Data Science Interview Questions with Detailed Answers** [Here](https://rpubs.com/JDAHAN/172473)
-
-## RESEARCH PAPERS 
-
-* **[PAPERS WITH CODE](https://paperswithcode.com/)**
 
 ## TOP RATED COURSES
 
