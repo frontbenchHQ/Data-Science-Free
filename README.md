@@ -189,6 +189,12 @@
 
 * **Python Deep Learning Projects Packt** [Packt Pdf](https://drive.google.com/file/d/1f7wsE-Aui2nYhG12Ti6-L8UMtSUsNvFu/view?usp=sharing) 
 
+## PLAYGROUNDS
+
+* **Tensorflow [Playground](https://playground.tensorflow.org/)**
+
+* **Machine Learning [Playground](http://ml-playground.com/)**
+
 <hr noshade>
 
 ## RESEARCH PAPERS 
