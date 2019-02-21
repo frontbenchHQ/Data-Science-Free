@@ -46,6 +46,7 @@
   * [Practice ML](#practice-ml)
 * [Deep Learning](#deep-learning)
   * [Deep Learning Projects](#deep-learning-projects)
+* [Playgrounds](#playgrounds) 
 * [Research Papers](#research-papers)
 * [Interview Questions](#interview-questions)
 * [Top Rated Courses](#top-rated-courses)
