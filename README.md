@@ -232,6 +232,8 @@
 
 * **UC Berkeley CS294-112 [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)**
 
+* **UCL Course on [RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)** 
+
 ## Blogs to Follow
 
 ![funml](images/funml.jpg)
