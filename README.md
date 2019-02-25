@@ -245,8 +245,10 @@
 * **[Analytics Vidhya](https://www.analyticsvidhya.com/)**
 
 * **[Towards Data Science](https://towardsdatascience.com/)**
+
 <br>
 <hr noshade>
+
 >You take the blue pill, the story ends. You wake up in your 
 >bed and believe whatever you want to believe. You take the 
 >red pill, you stay in Wonderland, and I show you how deep 
