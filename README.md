@@ -31,6 +31,8 @@
 
 # Show your support by giving :octocat: a :star:
 
+**DISCLAIMER:** ***This is for absolute beginners, no experience needed.*** 
+
 ## Table of Contents
 
 * [Python](#python)
