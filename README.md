@@ -46,11 +46,13 @@
   * [Practice ML](#practice-ml)
 * [Deep Learning](#deep-learning)
   * [Deep Learning Projects](#deep-learning-projects)
+* [Medium Blog Posts](#AWESOME-BLOG-POSTS-ON-MEDIUM)
 * [Playgrounds](#playgrounds) 
 * [Research Papers](#research-papers)
 * [Interview Questions](#interview-questions)
 * [Top Rated Courses](#top-rated-courses)
 * [Blogs to Follow](#blogs-to-follow)
+
 
 ## PYTHON
 <p align="center">
@@ -189,6 +191,12 @@
 ## DEEP LEARNING PROJECTS
 
 * **Python Deep Learning Projects Packt** [Packt Pdf](https://drive.google.com/file/d/1f7wsE-Aui2nYhG12Ti6-L8UMtSUsNvFu/view?usp=sharing) 
+
+## AWESOME BLOG POSTS ON MEDIUM
+
+* **Simple Reinforcement Learning with Tensorflow series by** [Arthur Juliani](https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-0-q-learning-with-tables-and-neural-networks-d195264329d0)
+
+* **Machine Learning for Humans by** [Vishal Maini](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 
 ## PLAYGROUNDS
 
