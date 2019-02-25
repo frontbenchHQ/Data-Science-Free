@@ -190,7 +190,9 @@
 
 ## DEEP LEARNING PROJECTS
 
-* **Python Deep Learning Projects Packt** [Packt Pdf](https://drive.google.com/file/d/1f7wsE-Aui2nYhG12Ti6-L8UMtSUsNvFu/view?usp=sharing) 
+* **Python Deep Learning Projects Packt** [Packt Pdf](https://drive.google.com/file/d/1f7wsE-Aui2nYhG12Ti6-L8UMtSUsNvFu/view?usp=sharing)
+
+* **Implement a Pong-playing agent** [Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 
 ## AWESOME BLOG POSTS ON MEDIUM
 
@@ -228,6 +230,8 @@
 
 * **Open Machine Learning Course [mlcourse.ai](https://mlcourse.ai/)**
 
+* **UC Berkeley CS294-112 [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)**
+
 ## Blogs to Follow
 
 ![funml](images/funml.jpg)
@@ -241,4 +245,10 @@
 * **[Analytics Vidhya](https://www.analyticsvidhya.com/)**
 
 * **[Towards Data Science](https://towardsdatascience.com/)**
+<br>
+<hr noshade>
+>You take the blue pill, the story ends. You wake up in your 
+>bed and believe whatever you want to believe. You take the 
+>red pill, you stay in Wonderland, and I show you how deep 
+>the rabbit hole goes.” — Morpheus
 
