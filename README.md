@@ -47,7 +47,7 @@
 * [Deep Learning](#deep-learning)
   * [Deep Learning Projects](#deep-learning-projects)
 * [Medium Blog Posts](#AWESOME-BLOG-POSTS-ON-MEDIUM)
-* [Playgrounds](#playgrounds) 
+* [Playgrounds](#playgrounds)
 * [Research Papers](#research-papers)
 * [Interview Questions](#interview-questions)
 * [Top Rated Courses](#top-rated-courses)
@@ -187,6 +187,8 @@
 * **Practical Deep Learning for Coders** [Fast-ai](https://course.fast.ai/)
 
 * **MIT Deep Learning** [Lex-Fridman](https://www.youtube.com/watch?v=O5xeyoRL95U&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
+
+* **MIT 6.S191: Introduction to Deep Learning** [Alexander-Amini](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 
 ## DEEP LEARNING PROJECTS
 
