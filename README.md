@@ -69,6 +69,8 @@
 
 * **Python for Data Analysis** [2nd Edition](https://github.com/wesm/pydata-book) 
 
+* **Learning Python 5th edition, oreilly publication by** [Mark Lutz](https://drive.google.com/file/d/14ayuNFEo9VZ-xstgXlyMgDFHoAgrGqJU/view?usp=sharing) **(LONG VERSION)**
+
 * **Python by** [Scipy](https://scipython.com/book/) 
 
 * **Udemy Complete Python Bootcamp by Jose Portilla** [Google Drive](https://drive.google.com/drive/folders/0ByWO0aO1eI_MaExzRWZ2S0dndjQ?usp=sharing)
