@@ -30,7 +30,6 @@
 <hr noshade>
 
 # Show your support by giving :octocat: a :star:
-
 **DISCLAIMER:** ***This is for absolute beginners, no experience needed.*** 
 
 ## Table of Contents
@@ -262,3 +261,7 @@
 >red pill, you stay in Wonderland, and I show you how deep 
 >the rabbit hole goes.” — Morpheus
 
+<br>
+<p align="center">
+    <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+</p>
