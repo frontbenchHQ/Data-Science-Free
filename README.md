@@ -176,6 +176,10 @@
 
 * **Stanford's CS 229 Machine Learning** [VIP Cheatsheet](https://github.com/afshinea/stanford-cs-229-machine-learning)
 
+* **Demystifying RL** [Intel AI](https://www.intel.ai/demystifying-deep-reinforcement-learning/#gs.0tu98m)
+
+* **Deep RL Bootcamp** [Berkeley CA](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
 ## PRACTICE ML
 
 * **Home for Data Science -** [Kaggle](https://www.kaggle.com/)
