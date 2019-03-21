@@ -46,7 +46,7 @@
 * [Machine Learning](#machine-learning)
   * [Practice ML](#practice-ml)
 * [Deep Learning](#deep-learning)
-  * [Deep Learning Projects](#deep-learning-projects)
+  * [AI Projects](#ai-projects)
 * [Medium Blog Posts](#AWESOME-BLOG-POSTS-ON-MEDIUM)
 * [Playgrounds](#playgrounds)
 * [Research Papers](#research-papers)
@@ -197,11 +197,13 @@
 
 * **Deep RL Bootcamp** [Berkeley CA](https://sites.google.com/view/deep-rl-bootcamp/lectures)
 
-## DEEP LEARNING PROJECTS
+## AI PROJECTS
 
 * **Python Deep Learning Projects Packt** [Packt Pdf](https://drive.google.com/file/d/1f7wsE-Aui2nYhG12Ti6-L8UMtSUsNvFu/view?usp=sharing)
 
 * **Implement a Pong-playing agent** [Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
+
+* **Flappy-Bird Playing agent in** [JavaScript](https://github.com/imskr/Flappy-Bird-AI)
 
 ## AWESOME BLOG POSTS ON MEDIUM
 
