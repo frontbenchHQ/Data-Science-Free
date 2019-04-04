@@ -156,7 +156,7 @@
 
 * **Hands on Machine Learning with Tensorflow & Scikit-learn** [Google Drive](https://drive.google.com/file/d/1CHv8CTQRRaoSDeBGN0_tkvd0D2E9mYxo/view?usp=sharing)
 
-* **Machine Learning: An Algorithmic Perspective** [Google Drive](https://drive.google.com/file/d/13j4DpwzII3gGd7T2qpRuGVk4AJtWAdus/view?usp=sharing)
+* **Machine Learning: An Algorithmic Perspective** [Here](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20An%20Algorithmic%20Perspective%20%282nd%20ed.%29%20%5BMarsland%202014-10-08%5D.pdf)
 
 * **Practical Machine Learning Tutorial with Python** [Sentdex](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
