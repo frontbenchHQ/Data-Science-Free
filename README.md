@@ -266,6 +266,25 @@
 <br>
 <hr noshade>
 
+## Contributors ✨
+
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/AishwaryaDASH">
+            <img src="https://avatars2.githubusercontent.com/u/36126084?s=400&v=4" width="100px;" alt="Aishwarya dash"/><br />
+            <sub><b>Aishwarya</b></sub></a>
+            <br />
+            <a href="https://github.com/frontbench-open-source/Data-Science-Free/commits?author=AishwaryaDASH" title="Commits">📖</a>
+        </td>
+    </tr>
+</table>
+
+
+
+
+<br>
+<hr noshade>
+
 >You take the blue pill, the story ends. You wake up in your 
 >bed and believe whatever you want to believe. You take the 
 >red pill, you stay in Wonderland, and I show you how deep 
