@@ -60,6 +60,8 @@
     <img src="/images/py.png" alt="py">
 </p>
 
+* **Python 3 tutorial by Programiz** [Here](https://www.programiz.com/python-programming/tutorial)
+
 * **Introduction to Python 3** [Sentdex](https://www.youtube.com/watch?v=eXBD2bB9-RA&list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
 
 * **Quantative Economics with Python** [Here](https://lectures.quantecon.org/py/) 
@@ -153,6 +155,8 @@
 </p>
 
 * **Hands on Machine Learning with Tensorflow & Scikit-learn** [Google Drive](https://drive.google.com/file/d/1CHv8CTQRRaoSDeBGN0_tkvd0D2E9mYxo/view?usp=sharing)
+
+* **Machine Learning: An Algorithmic Perspective** [Here](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20An%20Algorithmic%20Perspective%20%282nd%20ed.%29%20%5BMarsland%202014-10-08%5D.pdf)
 
 * **Practical Machine Learning Tutorial with Python** [Sentdex](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
