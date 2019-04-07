@@ -133,6 +133,9 @@
 
 * **UBC Maths by James B. Carrell** [Here](https://www.math.ubc.ca/~carrell/NB.pdf)
 
+* **MIT** [Linear algebra](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+
+
 ## PROBABILITY AND STATISTICS
 
 * **Khan Academy** [Course](https://www.khanacademy.org/math/statistics-probability)
