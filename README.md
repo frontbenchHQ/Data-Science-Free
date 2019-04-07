@@ -279,6 +279,12 @@
             <br />
             <a href="https://github.com/frontbench-open-source/Data-Science-Free/commits?author=AishwaryaDASH" title="Commits">📖</a>
         </td>
+        <td align="center"><a href="https://github.com/Sayan-Ghosh">
+            <img src="https://avatars2.githubusercontent.com/u/40402190?s=400&v=4" width="100px;" alt=" sayan ghosh"/><br />
+            <sub><b>Sayan Ghosh</b></sub></a>
+            <br />
+            <a href="https://github.com/frontbench-open-source/Data-Science-Free/commits?author=Sayan-Ghosh" title="Commits">📖</a>
+        </td>
     </tr>
 </table>
 
