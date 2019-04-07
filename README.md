@@ -248,6 +248,8 @@
 
 * **Open Machine Learning Course [mlcourse.ai](https://mlcourse.ai/)**
 
+* **CS294-158 Deep Unsupervised Learning [Spring 2019](https://sites.google.com/view/berkeley-cs294-158-sp19/home)**
+
 * **UC Berkeley CS294-112 [Deep Reinforcement Learning](http://rail.eecs.berkeley.edu/deeprlcourse/)**
 
 * **UCL Course on [RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)** 
