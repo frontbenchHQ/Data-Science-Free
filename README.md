@@ -15,12 +15,16 @@
     <img src="https://img.shields.io/badge/License-MIT-orange.svg?longCache=true" alt="License">
   </a>
   
-  <a href="https://github.com/imskr">
-    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome">
-  </a>
-  
   <a href="https://github.com/frontbench-open-source/Data-Science-Free/stargazers">
     <img src="https://img.shields.io/github/stars/frontbench-open-source/Data-Science-Free.svg?style=social" alt="Stargazers">
+  </a>
+
+ <a href="https://github.com/imskr">
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome">
+  </a>
+
+  <a href="https://saythanks.io/to/imskr">
+    <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg">
   </a>
 </p>
 
@@ -305,3 +309,5 @@
 <p align="center">
     <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
 </p>
+
+
