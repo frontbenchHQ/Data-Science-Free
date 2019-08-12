@@ -210,6 +210,8 @@
 
 ## AI PROJECTS
 
+* **Plant Disease Detector using Pytorch & fastai** [Visit](https://github.com/imskr/Plant_Disease_Detection) 
+
 * **Python Deep Learning Projects Packt** [Packt Pdf](https://drive.google.com/file/d/1f7wsE-Aui2nYhG12Ti6-L8UMtSUsNvFu/view?usp=sharing)
 
 * **Implement a Pong-playing agent** [Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
