@@ -78,10 +78,6 @@
 
 * **Python by** [Scipy](https://scipython.com/book/) 
 
-* **Udemy Complete Python Bootcamp by Jose Portilla** [Google Drive](https://drive.google.com/drive/folders/0ByWO0aO1eI_MaExzRWZ2S0dndjQ?usp=sharing)
-
-* **Udacity - Developing scalable app in Python** [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MT1E1NW91VlJ2TVk)
-
 * **Python Ebooks on** [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MZ19fbVV3YS1hckk)
 
 ## PANDAS
@@ -161,15 +157,11 @@
     <img src="/images/ml.jpg" alt="ml">
 </p>
 
-* **Hands on Machine Learning with Tensorflow & Scikit-learn** [Google Drive](https://drive.google.com/file/d/1CHv8CTQRRaoSDeBGN0_tkvd0D2E9mYxo/view?usp=sharing)
-
 * **Machine Learning: An Algorithmic Perspective** [Here](https://doc.lagout.org/science/Artificial%20Intelligence/Machine%20learning/Machine%20Learning_%20An%20Algorithmic%20Perspective%20%282nd%20ed.%29%20%5BMarsland%202014-10-08%5D.pdf)
 
 * **Practical Machine Learning Tutorial with Python** [Sentdex](https://www.youtube.com/watch?v=OGxgnH8y2NM&list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 
 * **Stanford - AndrewNg Course** [YouTube](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
-
-* **Udemy - Machine Learning A-Z using Python & R by SuperDataScience Team** [Here](https://drive.google.com/open?id=1mTUyna5oynW4RVItOldP2f2yhe_3xL4s)
 
 * **Jason Mayes (Google Engineer ML Class 101)** [Slides](https://docs.google.com/presentation/d/1kSuQyW5DTnkVaZEjGYCkfOxvzCqGEFzWBy4e9Uedd9k/mobilepresent?slide=id.g168a3288f7_0_58)
 
@@ -196,7 +188,7 @@
     <img src="/images/dl.jpg" alt="dl">
 </p>
 
-* **Grokking Deep Learning by Andrew Trask** [Pdf](https://drive.google.com/file/d/1gLbOH2AbiaStYGmLV6oivTgU6eraqlW2/view?usp=sharing)
+* **Grokking Deep Learning by Andrew Trask**
 
 * **Practical Deep Learning for Coders** [Fast-ai](https://course.fast.ai/)
 
@@ -211,8 +203,6 @@
 ## AI PROJECTS
 
 * **Plant Disease Detector using Pytorch & fastai** [Visit](https://github.com/imskr/Plant_Disease_Detection) 
-
-* **Python Deep Learning Projects Packt** [Packt Pdf](https://drive.google.com/file/d/1f7wsE-Aui2nYhG12Ti6-L8UMtSUsNvFu/view?usp=sharing)
 
 * **Implement a Pong-playing agent** [Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/)
 
