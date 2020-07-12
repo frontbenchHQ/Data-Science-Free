@@ -250,6 +250,12 @@
 
 * **UCL Course on [RL](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)** 
 
+* **CS109 Data Science - [Harvard](http://cs109.github.io/2015/pages/videos.html)**
+
+* **Python for Data Science and Machine Learning Bootcamp - [Udemy](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/?LSNPUBID=OyHlmBp2G0c&ranEAID=OyHlmBp2G0c&ranMID=39197&ranSiteID=OyHlmBp2G0c-vQFHeLPpk94Hgv3dq6AX0A&utm_medium=udemyads&utm_source=aff-campaign) (Paid)**
+
+* **Introduction to Data Science - [Metis](https://www.thisismetis.com/courses/introduction-to-data-science?utm_source=LDS&utm_medium=affiliate&utm_campaign=LDS2019affiliate) (Paid)**
+
 ## Blogs to Follow
 
 ![funml](images/funml.jpg)
