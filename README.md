@@ -256,7 +256,7 @@
 
 * **Introduction to Data Science - [Metis](https://www.thisismetis.com/courses/introduction-to-data-science?utm_source=LDS&utm_medium=affiliate&utm_campaign=LDS2019affiliate) (Paid)**
 
-## Blogs to Follow
+## Blogs to Read
 
 ![funml](images/funml.jpg)
 
