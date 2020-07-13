@@ -289,6 +289,12 @@
             <br />
             <a href="https://github.com/frontbench-open-source/Data-Science-Free/commits?author=Sayan-Ghosh" title="Commits">📖</a>
         </td>
+        <td align="center"><a href="https://github.com/komalmann">
+            <img src="https://avatars1.githubusercontent.com/u/62388145?s=400&u=f730285a901e700786bbf2eaf497d34bcdcfe25a&v=4" width="100px;" alt=" Komal Mann"/><br />
+            <sub><b>Komal Mann</b></sub></a>
+            <br />
+            <a href="https://github.com/frontbench-open-source/Data-Science-Free/commits?author=komalmann" title="Commits">📖</a>
+        </td>
     </tr>
 </table>
 
