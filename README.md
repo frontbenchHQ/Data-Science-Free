@@ -80,6 +80,8 @@
 
 * **Python Ebooks on** [Google Drive](https://drive.google.com/open?id=0ByWO0aO1eI_MZ19fbVV3YS1hckk)
 
+* **Python Tutorial for Beginners by Scaler Topics** [Here](https://www.scaler.com/topics/python/)
+
 ## PANDAS
 
 * **Pandas & Data Analysis by [mlcourse.ai](https://www.youtube.com/watch?v=fwWCw_cE5aI&feature=youtu.be)** (Video)
